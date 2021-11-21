@@ -1,3 +1,4 @@
+const readline = require("readline-sync")
 var k=readline.questionInt("Enter the divisor: ");
 var n = readline.questionInt("Enter the element number: ")
 var list=[]
